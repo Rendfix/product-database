@@ -1,0 +1,11 @@
+   {
+     "products": [
+       {
+         "barcode": "4606014082685",
+         "name": "Молоко Домик в деревне",
+         "imageUrl": "https://example.com/image.jpg",
+         "ingredients": "Молоко нормализованное",
+         "score": "85"
+       }
+     ]
+   }
